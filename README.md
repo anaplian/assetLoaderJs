@@ -12,6 +12,8 @@ var imageURLs = {
 
 assetLoader(imageURLs, function(images){
     /*
-     * Object {firstImage: img, secondImage: img}
+     * images = Object {firstImage: img, secondImage: img}
+     * Do something with the images here.
+     */
 });
 ```
